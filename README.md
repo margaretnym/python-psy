@@ -2,7 +2,7 @@
 UT Psychology Python Class
 
 
-Problem: Population Density by Geog Divisions
+Problem: Population Density by Geographical Regions
 
 Details: If you are interested in reading the code, here are some details about how the program proceeds: 
 1.	Read in all those three csv files.
@@ -18,3 +18,6 @@ Details: If you are interested in reading the code, here are some details about 
 5.	Sort the density dictionary in ascending order.
 6.	Produce a bar graph comparing these 9 divisions. In the bar graph, the x- and y-axis are labeled
     as “Division” and “Density” respectively, with each division shown as a tick mark on the x-axis.
+
+
+![Image of Barchat](https://github.com/margaretnym/python-psy/blob/master/Picture1.png)
